@@ -1,6 +1,6 @@
 # GameSpaceGame
 
-## Created by: İbrahim Halil Metin
+
 
 ### Summary:
 The game has been installed as a demo. It has some errors. All assets of the game are loaded and sound, animation and other features are working full time.
@@ -11,7 +11,7 @@ The game has been installed as a demo. It has some errors. All assets of the gam
 </br>
 Screenshots: </br>
 
-![oyunbirinci](https://user-images.githubusercontent.com/94048854/198879248-d9fb6797-ee30-4c04-a4da-2a46b6e7ef0e.PNG)
+
 ![oyunikinciatılacak](https://user-images.githubusercontent.com/94048854/198879267-3bf20668-36ea-4d17-9fa8-4a39abec5f1e.PNG)
 ![alıntı3](https://user-images.githubusercontent.com/94048854/198879286-f3096b51-96e3-451d-84b3-bb823a244718.PNG)
 ![yanan1](https://user-images.githubusercontent.com/94048854/198879303-e48048df-46c6-4b1d-9264-b00e6be77719.PNG)
